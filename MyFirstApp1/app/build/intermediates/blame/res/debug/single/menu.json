@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cc/wlp/git/android/MyFirstApp1/app/build/intermediates/res/merged/debug/menu/display_message.xml",
+        "source": "/Users/cc/wlp/git/android/MyFirstApp1/app/src/main/res/menu/display_message.xml"
+    },
+    {
+        "merged": "/Users/cc/wlp/git/android/MyFirstApp1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/cc/wlp/git/android/MyFirstApp1/app/src/main/res/menu/main.xml"
+    }
+]

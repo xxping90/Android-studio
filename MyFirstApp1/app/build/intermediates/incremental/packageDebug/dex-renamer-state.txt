@@ -1,0 +1,7 @@
+#Thu Dec 29 23:14:56 CST 2016
+base.0=/Users/cc/wlp/git/android/MyFirstApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2d268b4c3d159793f3c17aeb3bb67a10c245f7c2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/cc/wlp/git/android/MyFirstApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_40004ab157c12da738a307b4cf80960d63899297/classes.dex
+base.1=/Users/cc/wlp/git/android/MyFirstApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_40004ab157c12da738a307b4cf80960d63899297
+file.0=/Users/cc/wlp/git/android/MyFirstApp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2d268b4c3d159793f3c17aeb3bb67a10c245f7c2/classes.dex
